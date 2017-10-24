@@ -1,1 +1,7 @@
 fefsdfsdfsdfsdsddf
+
+
+
+Server file modified at local repository
+
+Modified in vi editor
